@@ -1,0 +1,136 @@
+Gender: Female
+Gender: Male
+Gender: Female
+Semester: fall 
+Semester: spring
+Semester: summer
+program: MCTA
+program: ENVR
+program: BLDG
+program: CESS
+program: ERGY
+program: COMM
+program: MANF
+program: LAAR
+program: MATL
+program: CISE
+program: HAUD
+1.1 : Strongly Agree
+1.1 : Agree
+1.1 : Neutral
+1.1 : Disagree
+1.1 : Strongly Disagree
+1.2 : Strongly Agree
+1.2 : Agree
+1.2 : Neutral
+1.2 : Disagree
+1.2 : Strongly Disagree
+1.3 : Strongly Agree
+1.3 : Agree
+1.3 : Neutral
+1.3 : Disagree
+1.3 : Strongly Disagree
+1.4 : Neutral
+1.4 : Disagree
+1.4 : Strongly Disagree
+1.4 : Strongly Agree
+1.4 : Agree
+1.5 : Strongly Agree
+1.5 : Agree
+1.5 : Neutral
+1.5 : Disagree
+1.5 : Strongly Disagree
+2.1 : Strongly Agree
+2.1 : Agree
+2.1 : Neutral
+2.1 : Disagree
+2.1 : Strongly Disagree
+2.2 : Neutral
+2.2 : Disagree
+2.2 : Strongly Disagree
+2.2 : Strongly Agree
+2.2 : Agree
+2.3 : Strongly Agree
+2.3 : Agree
+2.3 : Neutral
+2.3 : Disagree
+2.3 : Strongly Disagree
+2.4 : Strongly Agree
+2.4 : Agree
+2.4 : Neutral
+2.4 : Disagree
+2.4 : Strongly Disagree
+2.5 : Disagree
+2.5 : Strongly Disagree
+2.5 : Strongly Agree
+2.5 : Agree
+2.5 : Neutral
+2.6 : Strongly Agree
+2.6 : Agree
+2.6 : Neutral
+2.6 : Disgree
+2.6 : Strongly Disgree
+3.1 : Strongly Agree
+3.1 : Agree
+3.1 : Neutral
+3.1 : Disagree
+3.1 : Strongly Disagree
+3.2 : Strongly Agree
+3.2 : Agree
+3.2 : Neutral
+3.2 : Disagree
+3.2 : Strongly Disagree
+3.3 : Strongly Agree
+3.3 : Agree
+3.3 : Neutral
+3.3 : Disagree
+3.3 : Strongly Disagree
+4.1 : Strongly Agree
+4.1 : Agree
+4.1 : Neutral
+4.1 : Disagree
+4.1 : Strongly Disagree
+4.2 : Disagree
+4.2 : Strongly Disagree
+4.2 : Strongly Agree
+4.2 : Agree
+4.2 : Neutral
+4.3 : Strongly Agree
+4.3 : Agree
+4.3 : Neutral
+4.3 : Disagree
+4.3 : Strongly Disagree
+5.1 : Strongly Agree
+5.1 : Agree
+5.1 : Neutral
+5.1 : Disagree
+5.1 : Strongly Disagree
+5.2 : Strongly Agree
+5.2 : Agree
+5.2 : Neutral
+5.2 : Disagree
+5.2 : Strongly Disagree
+--------------------------------------------------Error Log--------------------------------------------------
+Gender: more than one answer
+Semester: more than one answer
+Program: more than one answer
+1.1: more than one answer
+1.2: more than one answer
+1.3: more than one answer
+1.4: more than one answer
+1.5: more than one answer
+2.1: more than one answer
+2.2: more than one answer
+2.3: more than one answer
+2.4: more than one answer
+2.5: more than one answer
+2.6: more than one answer
+3.1: more than one answer
+3.2: more than one answer
+3.3: more than one answer
+4.1: more than one answer
+4.2: more than one answer
+4.3: more than one answer
+5.1: more than one answer
+5.2: more than one answer
+-------------------------------------------------------------------------------------------------------------
